@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/lockscreen_forground_status_dummy"></RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00387b"
+        android:id="@+id/background_linear">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:id="@+id/ribbon_iv"
+            android:src="@drawable/flagtitle"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30dp" />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:id="@+id/clockbackground_iv"
+            android:src="@drawable/images"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="-20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="00 : 00 : 00"
+            android:id="@+id/clock_txt"
+            android:layout_marginTop="-70dp"
+            android:layout_marginLeft="110dp"
+            android:textColor="#ffffff"
+            android:textIsSelectable="false"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/lock_iv"
+            android:src="@drawable/lock"
+            android:layout_marginLeft="55dp"
+            android:layout_marginTop="35dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="670dp"
+            android:layout_marginTop="-460dp"
+            android:id="@+id/timeshow_linear">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="670dp"
+                android:background="#000000"
+                android:alpha="0.93"></LinearLayout>
+
+            <ImageView
+                android:layout_width="226dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageView"
+                android:layout_marginLeft="69dp"
+                android:layout_marginTop="-520dp"
+                android:background="@drawable/images" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/imageView2"
+                android:background="@drawable/gpslocaltime_icon"
+                android:layout_marginLeft="45dp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Remaining Time:"
+                android:id="@+id/textView"
+                android:layout_marginTop="-32dp"
+                android:layout_marginLeft="95dp"
+                android:textStyle="bold"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:layout_width="130dp"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="00 : 00 : 00"
+                android:id="@+id/remain_txtView"
+                android:layout_marginLeft="235dp"
+                android:layout_marginTop="-30dp"
+                android:textStyle="bold"
+                android:textColor="#ff0000" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="00 : 00 : 00"
+                android:id="@+id/time_textview"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="28dp"
+                android:layout_marginTop="-115dp"
+                android:layout_marginLeft="105dp"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:id="@+id/emergency_btn"
+                android:layout_marginTop="270dp"
+                android:layout_marginLeft="120dp"
+                android:background="@drawable/phonenumber" />
+            <Button
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:id="@+id/hangup_btn"
+                android:layout_marginTop="-63dp"
+                android:layout_marginLeft="185dp"
+                android:background="@drawable/unnamed" />
+
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Emergency Call"
+                android:id="@+id/textView4"
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="115dp"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#0909ed" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e36a488dc15c914978856260d4e5d05ab97d7282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_ba11ae6f86d156a0febf904794787b2cb3b74ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.romainpiel.shimmer\library\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="605019d3e4be636f5dd74c83d05198994e3a2ce9">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.romainpiel.shimmer-library-1.4.0_f8a1398f80abe95eb06214cefe8c26bde29aa9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_0891d2ffd8f649325f269ecdfc056fdd801445d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_1e3963094fd134fd65ec80d2492edc5031ccf6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_9af0c46136c4397c9df847dbfb3b7874d4332902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_104a0e9fa35c5ea124555f3979a26680d9a43ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_e8f580e65cf17f7e92ca4090d4f1b34b77b8128f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_18a233cd79a187150c8a924cbace1302ae038036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_29cfebc612d2094b7726da74523d207f5091b59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_72ee722750e083cd1e886e4a21a3cb7dcde7ac68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_a01cd450c735467a91d7d5592468ff4397754e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_e61ea07ec5679bdb9e5a0e95e66c560e5a953ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_8df26813d5a786b8a2101886e1b127de5b4767dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_3e2085fc09de8a9f10d58f26eccbebe9a372705b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_10c6be0182ecffd78e1e913bde4f3ae2d353b6da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_07e43ff4ccf9fc8df22bd720a336156838df7829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_5af4d1785f871d76df6ab2142bac3d2a48eeaf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_617974f45f3e1909d74811f7827e82dd26a4ef4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_fd2df5734ac1cd15f6d285df1a2a89a51951fe07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_5dd0225b20858c90d409342b32414b7740d2e3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56f99539514a3a86ee7dea300d5d6aa74d990263">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\instant-run_e83776585f300c6c7ea529c75e3359522cdd2479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_29a0a5a7a330bd6908666ee678a764d208a76aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_0b33ee09a1f2ec50551d70d0a41c251ba83c22b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_e9268dcf57e4f747d3ed9d0afce81ca9be7870e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_b39a9dc8638673b6c2f470f31d0dbf581ff94d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_5d44738baa404ce3c09d2fc0c4acf1a58c22145f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_4c1bb625840df4d3734865b4e48884751ccbad2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_3126a44858fa942161cabaab2cf09d0670061252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_4d2a78906b0f589e75f7087a48f9328a71f4eb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_0c3e6498b139eb66d00471702a2a8893782748a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_b66aab79174e39cb58000d8fdd2034ad742ff7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_ba29f0c2c0f9806386e3bcc0734c3a09f63beac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_fab9421115179c6c29197740464c78ec5aaacfec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_b6c690ffdae8560771ba72f9be4fbfa741264cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_5e406f5f4cc2ac5587f2c8d57132a357be9ffb54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_0deda9a71f33f828599ad3784ec30d2cae397fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c2c759c4eae187be21e064718bdccfbeec023b">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e3f22f7955035ba13d448aada4e4846212170122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adminPro\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_dfed12d48f670c04cc879fca2cf629736dc434a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Android\tsks\2-Youre Done\youredonekids\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7bdcf12e9768fb7fa1cfeaa1a36f1f5d6c67821b.jar" />
+    </item>
+
+</items>

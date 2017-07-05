@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shape="rectangle"
+    android:background="#00387b">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00387b">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:id="@+id/ribbon_iv"
+            android:src="@drawable/flagtitle"
+            android:layout_centerHorizontal="true" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/timer_view"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/ribbon_iv">
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="100dp"
+                android:id="@+id/clockbackground_iv"
+                android:src="@drawable/images" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="00 : 00 : 00"
+                android:id="@+id/clock_txt"
+                android:textColor="#ffffff"
+                android:textIsSelectable="false"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/lock_iv"
+            android:src="@drawable/lock"
+            android:layout_below="@+id/timer_view"
+            android:layout_marginStart="50dp"
+            android:layout_alignStart="@+id/timer_view"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/hidden1_linear">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#000000"
+                android:alpha="0.9"
+                android:id="@+id/hidden2_linear"></RelativeLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/rounded_corner"
+                android:id="@+id/alertView_linear">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Please enter a kids name and passcode"
+                    android:id="@+id/titleofalertView_txt"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Name"
+                    android:id="@+id/name_txt"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginLeft="35dp"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/name_edittxt"
+                    android:background="@drawable/textedit1"
+                    android:layout_marginLeft="35dp"
+                    android:autoText="false"
+                    android:textStyle="italic"
+                    android:hint="Enter a name"
+                    android:inputType="text"
+                    android:textColor="#000000"
+                    android:textColorHint="#888686"
+                    android:textSize="15dp"
+                    android:layout_marginTop="-2dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Passcode"
+                    android:id="@+id/passcode_txt"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/passcode_edittxt"
+                    android:background="@drawable/textedit1"
+                    android:layout_marginLeft="35dp"
+                    android:textColor="#000000"
+                    android:textStyle="italic"
+                    android:inputType="text"
+                    android:hint="Enter a passcode"
+                    android:textColorHint="#888686"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Emergency number"
+                    android:id="@+id/textView2"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="5dp" />
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/phonenum_edittxt"
+                    android:background="@drawable/textedit1"
+                    android:layout_marginLeft="35dp"
+                    android:hint="Enter a phone number"
+                    android:textStyle="italic"
+                    android:textSize="15dp"
+                    android:textColor="#000000"
+                    android:textColorHint="#888686"
+                    android:inputType="text" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="20dp">
+
+                    <Button
+                        android:layout_width="100dp"
+                        android:layout_height="30dp"
+                        android:text="OK"
+                        android:id="@+id/ok_btn"
+                        android:background="@drawable/redbutton"
+                        android:layout_marginLeft="28dp"
+                        android:textColor="#ffffff" />
+
+                    <Button
+                        android:layout_width="100dp"
+                        android:layout_height="30dp"
+                        android:text="CANCEL"
+                        android:id="@+id/cancel_btn"
+                        android:layout_marginLeft="169dp"
+                        android:layout_marginTop="-31dp"
+                        android:background="@drawable/redbutton"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/timeshow_linear">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#000000"
+                android:alpha="0.93"></LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/timer_view1"
+                android:layout_marginTop="150dp">
+                <ImageView
+                    android:layout_width="226dp"
+                    android:layout_height="100dp"
+                    android:id="@+id/imageView"
+                    android:background="@drawable/images" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="00 : 00 : 00"
+                    android:id="@+id/textView3"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_centerInParent="true"
+                    android:textSize="28dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/timer_view1"
+                android:layout_centerHorizontal="true">
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/imageView2"
+                    android:background="@drawable/gpslocaltime_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Remaining Time:"
+                    android:id="@+id/textView"
+                    android:layout_toEndOf="@+id/imageView2"
+                    android:layout_centerVertical="true"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="00 : 00 : 00"
+                    android:id="@+id/remain_txtView"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/textView"
+                    android:textStyle="bold"
+                    android:textColor="#ff0000" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="140dp"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true">
+                <Button
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:id="@+id/emergency_btn"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/phonenumber" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="Emergency Call"
+                    android:id="@+id/emer_textView"
+                    android:layout_marginTop="4dp"
+                    android:textStyle="bold"
+                    android:layout_below="@+id/emergency_btn"
+                    android:textSize="20dp"
+                    android:textColor="#0909ed" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>
